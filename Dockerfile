@@ -1,4 +1,4 @@
-ROM debian:wheezy
+FROM debian:wheezy
 
 MAINTAINER Oxalide bra@oxalide.com
 
